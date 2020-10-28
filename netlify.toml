@@ -1,0 +1,7 @@
+[build]
+    command = "cd ."
+    functions = "functions"
+    publish = "."
+
+[dev]
+    functions = "functions"
